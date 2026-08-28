@@ -2,7 +2,7 @@
  "show_dialog": false,
  "title": "Notice",
  "message": "1:-👹 Madarchod kakamod chor hai real developer Anonymous Omi hai t.me/Anonymous_omi",
- "toast": false,
+ "toast": true,
  "toast_message": "😊Real developer t.me/Anonymous_omi",
  "force_update": false,
  "maintenance": false,

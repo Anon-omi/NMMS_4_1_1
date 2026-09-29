@@ -1,7 +1,7 @@
 {
- "show_dialog": false,
+ "show_dialog": true,
  "title": "Notice",
- "message": "1:-👹 New update Available. Contact your manager",
+ "message": "1:- Application ka clear data karke fir se use kare kyuki gallery option new dala gaya, important baat:- OTP sahi dalna barna musterroll download nhi hoga  ",
  "toast": false,
  "toast_message": "😊 update your app https://t.me/nmms_by_omi",
  "force_update": false,

@@ -1,5 +1,5 @@
 {
- "show_dialog": true,
+ "show_dialog": false,
  "title": "Notice",
  "message": "1:- Application ka clear data karke fir se use kare kyuki gallery option new dala gaya, important baat:- OTP sahi dalna barna musterroll download nhi hoga  ",
  "toast": false,

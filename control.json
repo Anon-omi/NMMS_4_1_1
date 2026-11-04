@@ -1,8 +1,8 @@
 {
- "show_dialog": true,
+ "show_dialog": false,
  "title": "Notice",
  "message": "1:- Sabhi log Real developer Anonymous Omi ka telegram channel join kare @nmms_by_omi agar ye app aap logo ne Anonymous omi se liya hai tab to thik h barna aap ek chori ka app use kar rhe ho jaldi hi ye aap band ho jaega. join my telegram channel @nmms_by_omi ",
- "toast": true,
+ "toast": false,
  "toast_message": "😊 update your app https://t.me/nmms_by_omi",
  "force_update": false,
  "maintenance": false,
